@@ -1,4 +1,4 @@
 # Portfolio
 
-![neuro_imagen]("portfolio/Neuro.webp")
+![neuro_imagen]("portfolio/Neuro.png")
 
