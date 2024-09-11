@@ -1,4 +1,4 @@
 # Portfolio
 
-![neuro_imagen]("Neuro.png")
+![neuro_imagen]("portfolio/Neuro.png")
 
