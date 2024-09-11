@@ -1,4 +1,4 @@
 # Portfolio
 
-!("portfolio/Neuro.png")
+![neuro]("Neuro.png")
 
