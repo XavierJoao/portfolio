@@ -2,5 +2,5 @@
 
 # João Vítor Xavier
 
-## [Main Projects]()
+## [Main Projects]
 [Qualidade do ar em cidades brasileiras]()
