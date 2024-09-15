@@ -3,7 +3,7 @@
 # João Vítor Xavier
 
 ## Main Projects
-[Qualidade do ar em cidades brasileiras]()
+- [Qualidade do ar em cidades brasileiras]()
 
 ## Learning Journey Projects
 This repository showcases projects that reflect my continuous learning and passion for extracting value from data.
