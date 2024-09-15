@@ -4,3 +4,6 @@
 
 ## Main Projects
 [Qualidade do ar em cidades brasileiras]()
+
+## Learning Projects
+### Python
