@@ -1,4 +1,4 @@
-![neuro](Neuro_cut.png)
+![neuro](ds.png)
 
 # João Vítor Xavier
 
