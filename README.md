@@ -1,7 +1,6 @@
 # Portfolio
-![neuro](ds.png)
 
-# João Vítor Xavier
+![neuro](ds.png)
 
 ## Main Projects
 - [Qualidade do ar em cidades brasileiras]()
