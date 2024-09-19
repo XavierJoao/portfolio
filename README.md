@@ -1,6 +1,6 @@
 # Portfolio
 
-![neuro]()
+![neuro](dsn.png)
 
 ## Main Projects
 - [Qualidade do ar em cidades brasileiras]()
