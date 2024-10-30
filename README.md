@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas 
 ## 📊 Data Science
 Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair valor dos dados, explorando insights e desenvolvendo soluções práticas.
 
-🔗 [Veja meus projetos de Data Science](URL_DO_REPOSITORIO_DE_DATA_SCIENCE)
+🔗 [Qualidade do ar em cidades brasileiras]()
 
 ---
 
@@ -21,7 +21,8 @@ Aplicações de aprendizado de máquina, com projetos que envolvem modelos predi
 ## 📚 Learning Journey Projects
 Uma coleção de projetos desenvolvidos ao longo de minha jornada de aprendizado.
 
-🔗 [Confira meus Learning Journey Projects](URL_DO_REPOSITORIO_DE_LEARNING_JOURNEY)
+### Python
+🔗 [Projeto Controle Bancário](https://github.com/XavierJoao/controle_bancario)
 
 ---
 
