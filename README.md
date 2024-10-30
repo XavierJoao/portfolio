@@ -1,11 +1,11 @@
-# Portfólio de João
+# Portfólio
 
-Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas áreas de **Data Science**, **Machine Learning**, **Projetos de Jornada de Aprendizado** e **Criação de Sites**. Abaixo, você pode explorar cada seção com uma breve introdução e links para os repositórios específicos.
+Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas áreas de **Data Science**, **Machine Learning**, **Projetos de Jornada de Aprendizado** e **Criação de Sites**. Abaixo, você pode explorar cada seção com links para os repositórios específicos.
 
 ---
 
 ## 📊 Data Science
-Projetos voltados à análise de dados, explorando insights e desenvolvendo soluções práticas. Esses projetos incluem análise de qualidade do ar, visualizações interativas e exploração de dados de grandes fontes.
+Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair valor dos dados, explorando insights e desenvolvendo soluções práticas.
 
 🔗 [Veja meus projetos de Data Science](URL_DO_REPOSITORIO_DE_DATA_SCIENCE)
 
@@ -19,7 +19,7 @@ Aplicações de aprendizado de máquina, com projetos que envolvem modelos predi
 ---
 
 ## 📚 Learning Journey Projects
-Uma coleção de projetos desenvolvidos ao longo de minha jornada de aprendizado, documentando o progresso e as lições aprendidas em diversas áreas de tecnologia e ciência de dados.
+Uma coleção de projetos desenvolvidos ao longo de minha jornada de aprendizado.
 
 🔗 [Confira meus Learning Journey Projects](URL_DO_REPOSITORIO_DE_LEARNING_JOURNEY)
 
@@ -33,5 +33,9 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 ---
 
 ### Entre em Contato
-Se tiver interesse em contratar ou saber mais sobre meus projetos, fique à vontade para [entrar em contato comigo](mailto:SEU_EMAIL@EXEMPLO.COM).
+Se tiver interesse em contratar ou saber mais sobre meus projetos, entre em contato comigo pelos canais abaixo:
+
+- 📧 E-mail: [joaovitordeo.xavier021@gmail.com](joaovitordeo.xavier021@gmail.com)
+- 💼 LinkedIn: [João Vítor](linkedin.com/in/joão-vítor-4479141a0)
+- 📱 WhatsApp: [+55 (11) 95172-4615](https://wa.me/+5511951724615)
 
