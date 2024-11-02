@@ -14,7 +14,7 @@ Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair va
 ## 🧠 Machine Learning
 Aplicações de aprendizado de máquina, com projetos que envolvem modelos preditivos e classificadores. Inclui experimentos com datasets populares e projetos práticos que simulam casos reais.
 
-🔗 [Explore meus projetos de Machine Learning](URL_DO_REPOSITORIO_DE_MACHINE_LEARNING)
+🔗 [Detecção de fraudes]()
 
 ---
 
