@@ -29,7 +29,7 @@ Uma coleção de projetos desenvolvidos ao longo de minha jornada de aprendizado
 ## 🌐 Criação de Sites
 Projetos de desenvolvimento web, com foco em sites personalizados para empresas e portfólios pessoais. Criação de páginas intuitivas, visualmente atraentes e responsivas.
 
-🔗 [Veja exemplos de sites que desenvolvi](URL_DO_REPOSITORIO_DE_CRIACAO_DE_SITES)
+🔗 [Veja exemplos de sites que desenvolvi](https://github.com/XavierJoao/Sites?tab=readme-ov-file)
 
 ---
 
