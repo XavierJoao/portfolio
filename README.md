@@ -24,6 +24,9 @@ Uma coleção de projetos desenvolvidos ao longo de minha jornada de aprendizado
 ### Python
 🔗 [Projeto Controle Bancário](https://github.com/XavierJoao/controle_bancario)
 
+### JavaScript
+🔗 [Projeto ]()
+
 ---
 
 ## 🌐 Criação de Sites
