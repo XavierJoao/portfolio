@@ -9,7 +9,7 @@ Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair va
 
 <p align="left">
   <a href="https://github.com/XavierJoao/air-quality-project">
-    <img src="https://img.shields.io/badge/Qualidade%20do%20Ar%20em%20Cidades%20Brasileiras-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qualidade%20do%20ar-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
