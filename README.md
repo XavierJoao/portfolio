@@ -50,12 +50,6 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/XavierJoao/projeto-exemplo">
-    <img src="https://img.shields.io/badge/Exemplos%20de%20Sites-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 📫 **Entre em Contato**
