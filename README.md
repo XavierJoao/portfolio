@@ -32,7 +32,6 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 <p align="left">
   <a href="https://colegiofeliz.com.br/">
     <img src="https://img.shields.io/badge/Colégio%20Feliz-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   
   <a href="https://github.com/XavierJoao/Sites?tab=readme-ov-file">
     <img src="https://img.shields.io/badge/Outros%20sites-181717?style=for-the-badge&logo=github&logoColor=white" />
