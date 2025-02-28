@@ -58,11 +58,10 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 ### 📫 **Entre em Contato**
 Se tiver interesse em contratar ou saber mais sobre meus projetos, entre em contato comigo pelos canais abaixo:
 
-<p align="center">
-  <a href="mailto:joaovitordeo.xavier021@gmail.com"><img src="https://img.shields.io/badge/E--mail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/joão-vítor-4479141a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/XavierJoao"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/+5511951724615"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+<div>
+<a href = "mailto:joaovitordeo.xavier021@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joão-vítor-4479141a0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/XavierJoao"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
 ---
