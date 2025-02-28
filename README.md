@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas 
 ## 📊 **Data Science**
 Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair valor dos dados, explorando insights e desenvolvendo soluções práticas.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/XavierJoao/air-quality-project">
     <img src="https://img.shields.io/badge/Qualidade%20do%20Ar%20em%20Cidades%20Brasileiras-0077B5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
