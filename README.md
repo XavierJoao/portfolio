@@ -1,11 +1,11 @@
-# 📌 Portfólio
+# Portfólio
 
-Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas áreas de **Data Science**, **Machine Learning**, **Frontend** e **Criação de Sites**. Explore cada seção para acessar os repositórios específicos.
+Bem-vindo ao meu portfólio! Aqui estão alguns dos projetos que desenvolvi nas áreas de **Data Science**, **Machine Learning**, **Frontend** e **Criação de Sites**. Abaixo, você pode explorar cada seção com links para os repositórios específicos.
 
 ---
 
 ## 📊 **Data Science**
-Projetos que demonstram minha habilidade em análise de dados, exploração de insights e criação de soluções baseadas em dados.
+Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair valor dos dados, explorando insights e desenvolvendo soluções práticas.
 
 <p align="center">
   <a href="https://github.com/XavierJoao/air-quality-project">
@@ -16,7 +16,7 @@ Projetos que demonstram minha habilidade em análise de dados, exploração de i
 ---
 
 ## 🧠 **Machine Learning**
-Projetos que envolvem modelos preditivos e classificadores, utilizando técnicas avançadas de aprendizado de máquina.
+Aplicações de aprendizado de máquina, com projetos que envolvem modelos preditivos e classificadores. Inclui experimentos com datasets populares e projetos práticos que simulam casos reais.
 
 <p align="center">
   <a href="https://github.com/XavierJoao/credit-card-fraud">
@@ -26,17 +26,17 @@ Projetos que envolvem modelos preditivos e classificadores, utilizando técnicas
 
 ---
 
-## 🎨 **Frontend**
-Projetos focados em interfaces intuitivas, design responsivo e experiência do usuário aprimorada.
+## 🌐 **Frontend**
+Projetos de desenvolvimento de interfaces de usuário, com foco em design de sites intuitivos e responsivos.
 
-### 🐍 **Python**
+### Python
 <p align="center">
   <a href="https://github.com/XavierJoao/controle_bancario">
     <img src="https://img.shields.io/badge/Projeto%20Controle%20Bancário-008000?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
-### ⚡ **JavaScript**
+### JavaScript
 <p align="center">
   <a href="https://github.com/XavierJoao/projeto-exemplo">
     <img src="https://img.shields.io/badge/Projeto%20Exemplo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,8 +45,8 @@ Projetos focados em interfaces intuitivas, design responsivo e experiência do u
 
 ---
 
-## 🌍 **Criação de Sites**
-Desenvolvimento de sites personalizados para empresas e portfólios, com design moderno e responsivo.
+## 🌐 **Criação de Sites**
+Projetos de desenvolvimento web, com foco em sites personalizados para empresas e portfólios pessoais. Criação de páginas intuitivas, visualmente atraentes e responsivas.
 
 <p align="center">
   <a href="https://github.com/XavierJoao/Sites?tab=readme-ov-file">
@@ -56,12 +56,12 @@ Desenvolvimento de sites personalizados para empresas e portfólios, com design 
 
 ---
 
-## 📬 **Entre em Contato**
-Se tiver interesse em meus projetos ou quiser discutir uma colaboração, entre em contato pelos canais abaixo:
+### 📫 **Entre em Contato**
+Se tiver interesse em contratar ou saber mais sobre meus projetos, entre em contato comigo pelos canais abaixo:
 
 <p align="center">
   <a href="mailto:joaovitordeo.xavier021@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--mail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/joão-vítor-4479141a0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
