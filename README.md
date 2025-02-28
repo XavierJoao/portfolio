@@ -38,7 +38,6 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 ---
 
 ##  **Outros Projetos**
-Projetos de desenvolvimento de interfaces de usuário, com foco em design de sites intuitivos e responsivos.
 
 ### Python
 <p align="left">
