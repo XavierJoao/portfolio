@@ -18,7 +18,7 @@ Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair va
 ## 🧠 **Machine Learning**
 Aplicações de aprendizado de máquina, com projetos que envolvem modelos preditivos e classificadores. Inclui experimentos com datasets populares e projetos práticos que simulam casos reais.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/XavierJoao/credit-card-fraud">
     <img src="https://img.shields.io/badge/Detecção%20de%20Fraudes-FF0000?style=for-the-badge&logo=python&logoColor=white" />
   </a>
@@ -30,14 +30,14 @@ Aplicações de aprendizado de máquina, com projetos que envolvem modelos predi
 Projetos de desenvolvimento de interfaces de usuário, com foco em design de sites intuitivos e responsivos.
 
 ### Python
-<p align="center">
+<p align="left">
   <a href="https://github.com/XavierJoao/controle_bancario">
     <img src="https://img.shields.io/badge/Projeto%20Controle%20Bancário-008000?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
 ### JavaScript
-<p align="center">
+<p align="left">
   <a href="https://github.com/XavierJoao/projeto-exemplo">
     <img src="https://img.shields.io/badge/Projeto%20Exemplo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
@@ -48,7 +48,7 @@ Projetos de desenvolvimento de interfaces de usuário, com foco em design de sit
 ## 🌐 **Criação de Sites**
 Projetos de desenvolvimento web, com foco em sites personalizados para empresas e portfólios pessoais. Criação de páginas intuitivas, visualmente atraentes e responsivas.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/XavierJoao/Sites?tab=readme-ov-file">
     <img src="https://img.shields.io/badge/Exemplos%20de%20Sites-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
