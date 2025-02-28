@@ -20,7 +20,7 @@ Aplicações de aprendizado de máquina, com projetos que envolvem modelos predi
 
 <p align="left">
   <a href="https://github.com/XavierJoao/credit-card-fraud">
-    <img src="https://img.shields.io/badge/Detecção%20de%20Fraudes-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Exemplos%20de%20Sites-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -42,14 +42,14 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 ### Python
 <p align="left">
   <a href="https://github.com/XavierJoao/controle_bancario">
-    <img src="https://img.shields.io/badge/Projeto%20Controle%20Bancário-008000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Exemplos%20de%20Sites-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ### JavaScript
 <p align="left">
   <a href="https://github.com/XavierJoao/projeto-exemplo">
-    <img src="https://img.shields.io/badge/Projeto%20Exemplo-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Exemplos%20de%20Sites-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
