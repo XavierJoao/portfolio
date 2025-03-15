@@ -9,7 +9,7 @@ Esses projetos refletem meu aprendizado contínuo e minha paixão por extrair va
 
 <p align="left">
   <a href="https://github.com/XavierJoao/air-quality-project">
-    <img src="https://img.shields.io/badge/Qualidade%20do%20ar-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qualidade%20do%20ar-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ Aplicações de aprendizado de máquina, com projetos que envolvem modelos predi
 
 <p align="left">
   <a href="https://github.com/XavierJoao/credit-card-fraud">
-    <img src="https://img.shields.io/badge/Detector%20de%20fraudes-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Detector%20de%20fraudes-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -31,22 +31,23 @@ Projetos de desenvolvimento web, com foco em sites personalizados para empresas 
 
 <p align="left">
   <a href="https://colegiofeliz.com.br/">
-    <img src="https://img.shields.io/badge/Colégio%20Feliz-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Colégio%20Feliz-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
-  
+
+<p align="left">
   <a href="https://github.com/XavierJoao/Sites?tab=readme-ov-file">
-    <img src="https://img.shields.io/badge/Outros%20sites-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outros%20sites-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
-##  **Outros Projetos**
+## **Outros Projetos**
 
 <p align="left">
   <a href="https://github.com/XavierJoao/controle_bancario">
-    <img src="https://img.shields.io/badge/Controle%20Bancário-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Controle%20Bancário-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -60,5 +61,3 @@ Se tiver interesse em contratar ou saber mais sobre meus projetos, entre em cont
 <a href="https://www.linkedin.com/in/joão-vítor-4479141a0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/XavierJoao"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
----
